@@ -11,7 +11,8 @@ public class LambdaEx {
 		list.add("Tiger");
 		list.add("Lion");
 		
-		list.forEach((e) -> {System.out.print(e + " ");
+		list.forEach((e) -> {System.out.print(e+" ");
+		
 		
 		});
 }
